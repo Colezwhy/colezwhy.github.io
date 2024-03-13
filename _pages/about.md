@@ -16,8 +16,8 @@ I am very fortunate to be supervised by [Prof.Xinggang Wang](https://xwcv.github
 Research Interest
 ======
 
-__*In General*__: Artificial Intelligence, Computer Vision, Multi-modality
+__In General__: Artificial Intelligence, Computer Vision, Multi-modality
 
-__*Fields*__: data-efficient supervision, General visual intelligence, Generative-related tasks
+__Fields__: data-efficient supervision, General visual intelligence, Generative-related tasks
 
 Always open for new & promising directions!
