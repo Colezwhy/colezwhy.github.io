@@ -11,7 +11,7 @@ I’m currently a junior student studying in Information Science Advanced Class(
 of Electronic Information & Communication, HUST. I have a great interest in many aspects in Artificial
 Intelligence, especially computer vision related tasks.
 
-I am very fortunate to be supervised by [Prof.Xinggang Wang](https://xwcv.github.io/) in HUSTVL, school of EIC, Huazhong University of Science & Technology. Before, I was advised by Prof.Meng Tang in mengtanglab, The Univerisity of California, Merced.
+I am very fortunate to be supervised by [Prof.Xinggang Wang](https://xwcv.github.io/) in HUSTVL, school of EIC, Huazhong University of Science & Technology. Before, I was advised by Prof.Meng Tang in mengtanglab as a remote intern undergraduate student, The Univerisity of California, Merced.
 
 Research Interest
 ======
