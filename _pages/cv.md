@@ -15,7 +15,7 @@ Education
 * M.S. in Jekyll, GitHub University, 2014 -->
 * 2021 Sep. - 2025 Jun.(expected) B.E. in Electronic Information Engineering, Huazhong University of Science & Technology
 
-Work experience
+Research & Working experiences
 ======
 <!-- * Spring 2024: Academic Pages Collaborator
   * Github University
