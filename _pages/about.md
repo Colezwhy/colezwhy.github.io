@@ -50,6 +50,7 @@ Research & Working experiences
   * Supervisor: Ming-Hsuan Yang -->
 
 <img align="right" src="../images/HUST.png" width = "300" height = "300" alt="HUST"/>
+
 * 2022 Oct. - Present.: 
   * HUSTVL -- Research Intern
   * Huazhong Univeristy of Science & Technology
@@ -58,7 +59,7 @@ Research & Working experiences
     * Feature Enginnering.
   * Supervisor: Xinggang Wang
 
-<img align="right" src="../images/HUST.png" width = "300" height = "200" alt="HUST"/>
+<img align="right" src="../images/Merced.webp" width = "250" height = "250" alt="UCMerced"/>
 
 * 2023 Dec. - 2024 Mar.:
   * Mengtang Lab -- Research Intern
@@ -68,7 +69,7 @@ Research & Working experiences
     * Efficient Structural design.
   * Supervisor: Ment Tang
   
-<img align="right" src="../images/Merced.webp" width = "250" height = "250" alt="UCMerced"/>
+
 
 Publications
 ======
