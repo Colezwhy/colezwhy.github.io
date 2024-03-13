@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Info"
+title: "Brief intro"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,6 +27,29 @@ Always open for new & promising directions!
 News
 ======
 - 2024/2/22: Our work WeakSAM is now available on Arxiv, please check the full paper and refer to our open-sourced codes.
+
+Education
+======
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014 -->
+* 2021 Sep. - 2025 Jun.(expected) B.E. in Electronic Information Engineering, Huazhong University of Science & Technology
+
+Research & Working experiences
+======
+<!-- * Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users -->
+
+* 2022 Oct. - Present.: Research Intern
+  * Huazhong Univeristy of Science & Technology
+  * Content: General Visual Intelligence, Feature Enginnering.
+  * Supervisor: Xinggang Wang
+
+* 2023 Dec. - 2024 Mar.: Research Intern
+  * The Univerisity of California, Merced
+  * Content: Diffusion for perception, Efficient Structural design.
+  * Supervisor: Ment Tang
 
 Publications
 ======

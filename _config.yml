@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junwei Zhou"
+title                    : "Base info"
 title_separator          : "-"
 name                     : &name "Junwei Zhou"
 description              : &description "personal description"
