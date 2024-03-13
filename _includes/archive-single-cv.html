@@ -48,6 +48,7 @@
           {% if post.authors %}
             {% assign author_name_emph = site.author.name | prepend: '<i>' | append: '</i>' %}
             <p>{{ post.authors | replace_first: site.author.name, author_name_emph }}</p>
+            {% endif %}
     {% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
     </li>
