@@ -27,3 +27,9 @@ Always open for new & promising directions!
 News
 ======
 - 2024/2/22: Our work WeakSAM is now available on Arxiv, please check the full paper and refer to our open-sourced codes.
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
