@@ -67,7 +67,7 @@ Research & Working experiences
   * Content: 
     * Diffusion for perception
     * Efficient Structural design.
-  * Supervisor: Ment Tang
+  * Supervisor: Meng Tang
   
 
 
