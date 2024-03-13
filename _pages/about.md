@@ -49,7 +49,7 @@ Research & Working experiences
     * Feature Enginnering.
   * Supervisor: Ming-Hsuan Yang -->
 
-<img align="right" src="../images/HUST.png" width = "250" height = "170" alt="HUST"/>
+<img align="right" src="../images/HUST.png" width = "150" height = "100" alt="HUST"/>
 
 * 2022 Oct. - Present.: 
   * HUSTVL -- Research Intern
@@ -59,7 +59,7 @@ Research & Working experiences
     * Feature Enginnering.
   * Supervisor: Xinggang Wang
 
-<img align="right" src="../images/Merced.webp" width = "250" height = "250" alt="UCMerced"/>
+<img align="right" src="../images/Merced.webp" width = "150" height = "150" alt="UCMerced"/>
 
 * 2023 Dec. - 2024 Mar.:
   * Mengtang Lab -- Research Intern
