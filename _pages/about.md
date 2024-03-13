@@ -49,7 +49,7 @@ Research & Working experiences
     * Feature Enginnering.
   * Supervisor: Ming-Hsuan Yang -->
 
-<img align="right" src="../images/HUST.png" width = "300" height = "300" alt="HUST"/>
+<img align="right" src="../images/HUST.png" width = "250" height = "170" alt="HUST"/>
 
 * 2022 Oct. - Present.: 
   * HUSTVL -- Research Intern
