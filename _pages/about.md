@@ -32,6 +32,8 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
+<img align="right" src="../images/HUST.png" width = "150" height = "100" alt="HUST"/>
+
 * 2021 Sep. - 2025 Jun.(expected):
 
   B.E. in Electronic Information Engineering
