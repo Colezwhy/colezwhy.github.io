@@ -57,6 +57,8 @@ Research & Working experiences
     * Feature Enginnering.
   * Supervisor: Xinggang Wang
 
+<img align="right" src="../images/HUST.png" width = "300" height = "300" alt="HUST"/>
+
 * 2023 Dec. - 2024 Mar.:
   * Mengtang Lab -- Research Intern
   * The Univerisity of California, Merced
@@ -64,6 +66,8 @@ Research & Working experiences
     * Diffusion for perception
     * Efficient Structural design.
   * Supervisor: Ment Tang
+  
+<img align="right" src="../images/Merced.webp" width = "250" height = "250" alt="UCMerced"/>
 
 Publications
 ======
