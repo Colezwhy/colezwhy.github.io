@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Main page"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Junwei Zhou"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Colezwhy/colezwhy.github.io"
 author:
   # Biographic information
   avatar           : "avartar.png"
-  name             : "Junwei Zhou"
+  name             : "Junwei Zhou(周俊炜)"
   pronouns         : # example: "she/her"  
   bio              : "Junior undergraduate in HUST, interested in computer vision"
   location         : "Wuhan, China"
