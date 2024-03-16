@@ -42,19 +42,17 @@ Education
 
 Research & Working experiences
 ======
+<!-- <img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
+<img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
 
-<img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
-
-<!-- <img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/> -->
 
 * 2024 May. - Present.: 
   * UCMerced VLLab -- Summer Intern
   * Google Research -- Research Assistance(remote)
-  <img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
   * Content: 
     * General Visual Intelligence
     * Feature Enginnering.
-  * Supervisor: Ming-Hsuan Yang
+  * Supervisor: Ming-Hsuan Yang -->
 
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
