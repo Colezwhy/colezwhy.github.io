@@ -45,11 +45,10 @@ Research & Working experiences
 
 <img align="right" src="../images/Merced.webp" width = "150" height = "150" alt="UCMerced"/>
 
-<img align="right" src="../images/google1.png" width = "150" height = "150" alt="google"/>
-
 * 2024 May. - Present.: 
   * UCMerced VLLab -- Summer Intern
   * Google Research -- Research Assistance(remote)
+  <img align="right" src="../images/google1.png" width = "150" height = "150" alt="google"/>
   * Content: 
     * General Visual Intelligence
     * Feature Enginnering.
