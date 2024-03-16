@@ -42,13 +42,18 @@ Education
 
 Research & Working experiences
 ======
-<!-- * 2024 May. - Present.: 
-  * UCM VLLab -- Summer Intern
-  * The University of California, Merced
+
+<img align="right" src="../images/Merced.webp" width = "150" height = "150" alt="UCMerced"/>
+
+<img align="right" src="../images/google1.png" width = "150" height = "150" alt="google"/>
+
+* 2024 May. - Present.: 
+  * UCMerced VLLab -- Summer Intern
+  * Google Research -- Research Assistance(remote)
   * Content: 
     * General Visual Intelligence
     * Feature Enginnering.
-  * Supervisor: Ming-Hsuan Yang -->
+  * Supervisor: Ming-Hsuan Yang
 
 <img align="right" src="../images/HUST.png" width = "150" height = "100" alt="HUST"/>
 
