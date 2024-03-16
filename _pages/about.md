@@ -32,7 +32,7 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
-<img align="right" src="../images/HUST.png" width = "150" height = "100" alt="HUST"/>
+<img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
 * 2021 Sep. - 2025 Jun.(expected):
 
@@ -43,18 +43,20 @@ Education
 Research & Working experiences
 ======
 
-<img align="right" src="../images/Merced.webp" width = "150" height = "150" alt="UCMerced"/>
+<img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
+
+<!-- <img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/> -->
 
 * 2024 May. - Present.: 
   * UCMerced VLLab -- Summer Intern
   * Google Research -- Research Assistance(remote)
-  <img align="right" src="../images/google1.png" width = "150" height = "150" alt="google"/>
+  <img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
   * Content: 
     * General Visual Intelligence
     * Feature Enginnering.
   * Supervisor: Ming-Hsuan Yang
 
-<img align="right" src="../images/HUST.png" width = "150" height = "100" alt="HUST"/>
+<img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
 * 2022 Oct. - Present.: 
   * [HUSTVL](https://github.com/hustvl) -- Research Intern
@@ -65,7 +67,7 @@ Research & Working experiences
     * Vision-Language
   * Supervisor: Xinggang Wang
 
-<img align="right" src="../images/Merced.webp" width = "150" height = "150" alt="UCMerced"/>
+<img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
 
 * 2023 Dec. - 2024 Mar.:
   * Mengtang Lab -- Research Intern
