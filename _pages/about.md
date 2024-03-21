@@ -13,7 +13,7 @@ of Electronic Information & Communication, HUST. I have a great interest in many
 <!-- Now I am doing a summer internship in VLLab, UCMerced, supervised by Prof Ming-Hsuan Yang, also working closely with Dr Lu Qi.  -->
 I am very fortunate to be supervised by [Prof.Xinggang Wang](https://xwcv.github.io/) in HUSTVL, school of EIC, Huazhong University of Science & Technology. Before, I was advised by [Prof.Meng Tang](mengtang.org) in mengtanglab as a remote undergraduate intern, The Univerisity of California, Merced.
 
-If you are interested in working with me or want to have a chat, please send me an email directly. __Collaborations are often pleasant when persuing something.__
+If you are interested in working with me or want to have a chat, please send me an email directly. __Collaborations are often pleasant when pursuing something.__
 
 Research Interest
 ======
@@ -43,16 +43,24 @@ Education
 Research & Working experiences
 ======
 <!-- <img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
-<img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
-
 
 * 2024 May. - Present.: 
   * UCMerced VLLab -- Summer Intern
-  * Google Research -- Research Assistance(remote)
+  * The University of California, Merced
   * Content: 
     * General Visual Intelligence
-    * Feature Enginnering.
-  * Supervisor: Ming-Hsuan Yang -->
+    * Feature Enginnering
+    * text-to-video generation
+  * Supervisor: Ming-Hsuan Yang
+
+<img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
+
+* 2024 May. - Present.:
+  * Google research -- Research Collaborator
+  * Content:
+    * refer to above
+    * Google Cloud TRC program
+  * (joint with summer intern) -->
 
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
@@ -63,6 +71,7 @@ Research & Working experiences
     * General Visual Intelligence
     * Feature Enginnering
     * Vision-Language
+    * Unsupervised Learning
   * Supervisor: Xinggang Wang
 
 <img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
@@ -73,6 +82,7 @@ Research & Working experiences
   * Content: 
     * Diffusion for perception
     * Efficient Structural design
+    * Post refinement for generative models
   * Supervisor: Meng Tang
   
 
