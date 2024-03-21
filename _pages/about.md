@@ -15,7 +15,7 @@ I am very fortunate to be supervised by [Prof.Xinggang Wang](https://xwcv.github
 
 If you are interested in working with me or want to have a chat, please send me an email directly. __Collaborations are often pleasant when pursuing something.__
 
-Research Interest
+**Research Interest**
 ======
 
 __In General__: Artificial Intelligence, Computer Vision, Multi-modality
@@ -24,11 +24,11 @@ __Fields__: data-efficient supervision, General visual intelligence, Generative-
 
 Always open for promising directions and interesting topics.
 
-News
+**News** :date:
 ======
 - 2024/2/22: Our work [WeakSAM](https://arxiv.org/abs/2402.14812) is now available on Arxiv, please check the full paper and refer to our open-sourced codes for more details.
 
-Education
+**Education**
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
@@ -40,7 +40,7 @@ Education
 
   Huazhong University of Science & Technology
 
-Research & Working experiences
+**Research & Working experiences**
 ======
 <!-- <img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
 
@@ -56,10 +56,10 @@ Research & Working experiences
 <img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
 
 * 2024 May. - Present.:
-  * Google research -- Research Collaborator
+  * Google research -- Research Assistant
   * Content:
     * refer to above
-    * Google Cloud TRC program
+    * Google Cloud TRC support
   * (joint with summer intern) -->
 
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
@@ -87,7 +87,7 @@ Research & Working experiences
   
 
 
-Publications
+**Publications**
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
