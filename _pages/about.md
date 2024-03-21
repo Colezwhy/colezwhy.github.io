@@ -24,7 +24,7 @@ __Fields__: data-efficient supervision, General visual intelligence, Generative-
 
 Always open for promising directions and interesting topics.
 
-**News** :date:
+**News**
 ======
 - 2024/2/22: Our work [WeakSAM](https://arxiv.org/abs/2402.14812) is now available on Arxiv, please check the full paper and refer to our open-sourced codes for more details.
 
