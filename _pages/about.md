@@ -26,7 +26,7 @@ Always open for promising directions and interesting topics.
 
 **News**
 ======
-- 2024/3/30: I will join VLLab@UCMerced as a summer intern student, supervised by Prof. Ming-Husan Yang. Looking forward to achieve something impressive!
+- 2024/3/30: I will join VLLab@UCMerced as a summer intern undergraduate student, supervised by [Prof. Ming-Husan Yang](https://faculty.ucmerced.edu/mhyang/). Looking forward to achieve something impressive!
   
 - 2024/2/22: Our work [WeakSAM](https://arxiv.org/abs/2402.14812) is now available on Arxiv, please check the full paper and refer to our open-sourced codes for more details.
 
