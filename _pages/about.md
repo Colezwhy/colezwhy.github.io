@@ -11,7 +11,7 @@ I’m currently a junior student studying in Information Science Advanced Class,
 of Electronic Information & Communication, HUST. I have a great interest in many aspects in Artificial Intelligence, especially computer vision related tasks.
 
 <!-- Now I am doing a summer internship in VLLab, UCMerced, supervised by Prof Ming-Hsuan Yang, also working closely with Dr Lu Qi.  -->
-I am very fortunate to be supervised by [Prof.Xinggang Wang](https://xwcv.github.io/) in HUSTVL, school of EIC, Huazhong University of Science & Technology. Before, I was advised by [Prof.Meng Tang](mengtang.org) in mengtanglab as a remote undergraduate intern, The Univerisity of California, Merced.
+I am very fortunate to be supervised by Prof. [Xinggang Wang](https://xwcv.github.io/) in HUSTVL, school of EIC, Huazhong University of Science & Technology. Before, I was advised by Prof. [Meng Tang](mengtang.org) as a remote undergraduate intern, The Univerisity of California, Merced.
 
 If you are interested in working with me or want to have a chat, please send me an email directly. Collaborations are often pleasant when pursuing something.
 
@@ -28,7 +28,7 @@ Always open for promising directions and interesting topics.
 
 **News**
 ======
-- **2024/3/30**: I will join VLLab@UCMerced as a summer intern undergraduate student, supervised by [Prof. Ming-Husan Yang](https://faculty.ucmerced.edu/mhyang/). Looking forward to achieve something impressive!
+- **2024/3/30**: I will join [VLLab@UCMerced](http://vllab.ucmerced.edu/) as a summer intern undergraduate student, supervised by Prof. [Ming-Husan Yang](https://faculty.ucmerced.edu/mhyang/). Looking forward to achieve something impressive!
   
 - **2024/2/22**: Our work [WeakSAM](https://arxiv.org/abs/2402.14812) is now available on Arxiv, please check the full paper and refer to our open-sourced codes for more details.
 
