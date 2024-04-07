@@ -13,9 +13,9 @@ of Electronic Information & Communication, HUST. I have a great interest in many
 <!-- Now I am doing a summer internship in VLLab, UCMerced, supervised by Prof Ming-Hsuan Yang, also working closely with Dr Lu Qi.  -->
 I am very fortunate to be supervised by [Prof.Xinggang Wang](https://xwcv.github.io/) in HUSTVL, school of EIC, Huazhong University of Science & Technology. Before, I was advised by [Prof.Meng Tang](mengtang.org) in mengtanglab as a remote undergraduate intern, The Univerisity of California, Merced.
 
-If you are interested in working with me or want to have a chat, please send me an email directly. __Collaborations are often pleasant when pursuing something.__
+If you are interested in working with me or want to have a chat, please send me an email directly. **Collaborations** are often pleasant when pursuing something.
 
-Seeking for PhD positions in 2025 Fall!
+**Expected to be seeking for Ph.D. positions in 2025 Fall!**
 
 **Research Interest**
 ======
@@ -34,8 +34,7 @@ Always open for promising directions and interesting topics.
 
 **Education**
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014 -->
+
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
 * 2021 Sep. - 2025 Jun.(expected):
@@ -62,7 +61,7 @@ Always open for promising directions and interesting topics.
 * 2024 May. - Present.:
   * Google research -- Research Assistant
   * Content:
-    * refer to above
+    * Please also refer to above
     * Google Cloud TRC support
   * (joint with summer intern) -->
 
