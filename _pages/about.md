@@ -45,18 +45,18 @@ Always open for promising directions and interesting topics.
 
 **Research & Working experiences**
 ======
-<!-- <img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
+<img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
 
 * 2024 May. - Present.: 
   * UCMerced VLLab -- Summer Intern
   * The University of California, Merced
-  * Content: 
+  * Supervisor: Ming-Hsuan Yang
+  <!-- * Content: 
     * General Visual Intelligence
     * Feature Enginnering
-    * text-to-video generation
-  * Supervisor: Ming-Hsuan Yang
-
-<img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
+    * text-to-video generation -->
+  
+<!-- <img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
 
 * 2024 May. - Present.:
   * Google research -- Research Assistant
@@ -67,7 +67,7 @@ Always open for promising directions and interesting topics.
 
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
-* 2022 Oct. - Present.: 
+* 2022 Oct. - 2024 May.: 
   * [HUSTVL](https://github.com/hustvl) -- Research Intern
   * Huazhong Univeristy of Science & Technology
   * Content: 
