@@ -10,8 +10,8 @@ redirect_from:
 I’m currently a junior student studying in Information Science Advanced Class, school
 of Electronic Information & Communication, HUST. I have a great interest in many aspects in Artificial Intelligence, especially computer vision related tasks.
 
-<!-- Now I am doing a summer internship in VLLab, UCMerced, supervised by Prof Ming-Hsuan Yang, also working closely with Dr Lu Qi.  -->
-I am very fortunate to be supervised by Prof. [Xinggang Wang](https://xwcv.github.io/) in HUSTVL, school of EIC, Huazhong University of Science & Technology. Before, I was advised by Prof. [Meng Tang](mengtang.org) as a remote undergraduate intern, The Univerisity of California, Merced.
+Now I am a visiting student in VLLab, UCMerced, supervised by Prof Ming-Hsuan Yang, also working closely with Dr Lu Qi.
+Previously, I am very fortunate to be supervised by Prof. [Xinggang Wang](https://xwcv.github.io/)@HUSTVL, Prof. [Meng Tang](mengtang.org)@mengtang lab, UCMerced.  
 
 If you are interested in working with me or want to have a chat, please send me an email directly. Collaborations are often pleasant when pursuing something.
 
@@ -20,11 +20,13 @@ If you are interested in working with me or want to have a chat, please send me 
 **Research Interest**
 ======
 
-__In General__: Artificial Intelligence, Computer Vision, Multi-modality
+- Artificial Intelligence, Computer Vision, Multi-modality
 
-__Fields__: data-efficient supervision, General visual intelligence, Generative-related
+- data-efficient learning, General visual intelligence
 
-Always open for promising directions and interesting topics.
+- Generative-related, Text-to-3D, 3D-related
+
+Always open for interesting topics!
 
 **News**
 ======
@@ -51,12 +53,14 @@ Always open for promising directions and interesting topics.
   * UCMerced VLLab -- Summer Intern
   * The University of California, Merced
   * Supervisor: Ming-Hsuan Yang
-  <!-- * Content: 
-    * General Visual Intelligence
-    * Feature Enginnering
-    * text-to-video generation -->
+
+
+<!-- * Content: 
+  * General Visual Intelligence
+  * Feature Enginnering
+  * text-to-video generation
   
-<!-- <img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
+<img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
 
 * 2024 May. - Present.:
   * Google research -- Research Assistant
