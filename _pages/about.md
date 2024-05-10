@@ -10,10 +10,10 @@ redirect_from:
 I’m currently a junior student studying in Information Science Advanced Class, school
 of Electronic Information & Communication, HUST. I have a great interest in many aspects in Artificial Intelligence, especially computer vision related tasks.
 
-Now I am a visiting student in VLLab, UCMerced, supervised by Prof Ming-Hsuan Yang, also working closely with Dr Lu Qi.
-Previously, I am very fortunate to be supervised by Prof. [Xinggang Wang](https://xwcv.github.io/)@HUSTVL, Prof. [Meng Tang](mengtang.org)@mengtang lab, UCMerced.  
+Now I am a visiting student in VLLab, UCMerced, supervised by [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), also working closely with [Dr. Lu Qi](http://luqi.info/).
+Previously, I am very fortunate to be supervised by Prof. [Xinggang Wang](https://xwcv.github.io/)@HUSTVL, Prof. [Meng Tang](mengtang.org)@mengtang lab, UCMerced.
 
-If you are interested in working with me or want to have a chat, please send me an email directly. Collaborations are often pleasant when pursuing something.
+If you are interested in working with me or want to have a chat, please send me an email directly. Always welcome!
 
 - Expected to be seeking for Ph.D. positions in 2025 Fall!
 
