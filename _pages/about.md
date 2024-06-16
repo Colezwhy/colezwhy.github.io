@@ -10,7 +10,7 @@ redirect_from:
 I’m currently a junior student studying in Information Science Advanced Class, school
 of Electronic Information & Communication, HUST. I have a great interest in many aspects in Artificial Intelligence, especially computer vision related tasks.
 
-Now I am a visiting student in VLLab, UCMerced, supervised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), also working closely with Dr. [Lu Qi](http://luqi.info/).
+Now I am a visiting student at VlLab@UCMerced, supervised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), also working closely with [Lu Qi](http://luqi.info/) and [Xueting Li](https://research.nvidia.com/person/xueting-li), working on 3D/4D generation.
 Previously, I am very fortunate to be supervised by Prof. [Xinggang Wang](https://xwcv.github.io/)@HUSTVL, Prof. [Meng Tang](mengtang.org)@mengtang lab, UCMerced.
 
 If you are interested in working with me or want to have a chat, please send me an email directly. Always welcome!
@@ -24,7 +24,7 @@ If you are interested in working with me or want to have a chat, please send me 
 
 - data-efficient learning, General visual intelligence
 
-- Generative-related, Text-to-3D, 3D-related
+- Generative-related, 3D/4D generation ...
 
 Always open for interesting topics!
 
