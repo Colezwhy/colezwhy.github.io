@@ -26,7 +26,9 @@ Also if you are interested in a chat, please send me an email directly. Always w
 
 - data-efficient learning, General visual intelligence
 
-- Generative-related, 3D/4D generation ...
+- Generative-related, 3D/4D generation, AIGC
+
+- To be explored...
 
 Always open for interesting topics!
 
