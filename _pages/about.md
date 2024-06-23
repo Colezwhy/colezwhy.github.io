@@ -77,7 +77,7 @@ Always open for interesting topics!
 
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
-* 2022 Oct. - 2024 May.: 
+* 2022 Oct. - 2024 April.: 
   * [HUSTVL](https://github.com/hustvl) -- Research Intern
   * Huazhong Univeristy of Science & Technology
   * Content: 
