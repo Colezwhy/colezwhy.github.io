@@ -34,6 +34,8 @@ Always open for interesting topics!
 
 **News**
 ======
+- **2024/5/30**: Starting my internship at UCMerced and working on 3D/4D tasks. Good luck!
+
 - **2024/3/30**: I will join [VLLab@UCMerced](http://vllab.ucmerced.edu/) as a summer intern undergraduate student, supervised by Prof. [Ming-Husan Yang](https://faculty.ucmerced.edu/mhyang/). Looking forward to achieve something impressive!
   
 - **2024/2/22**: Our work [WeakSAM](https://arxiv.org/abs/2402.14812) is now available on Arxiv, please check the full paper and refer to our open-sourced codes for more details.
