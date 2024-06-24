@@ -94,8 +94,8 @@ Always open for interesting topics!
   * The Univerisity of California, Merced
   * Content: 
     * Diffusion for perception
-    * Efficient Structural design
-    * Post refinement for generative models
+    * Efficient Network Structural design
+    * Image Post refinement for generative models
   * Supervisor: Meng Tang
   
 
