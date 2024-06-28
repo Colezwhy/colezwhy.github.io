@@ -56,8 +56,11 @@ Always open for interesting topics!
 <img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
 
 * 2024 May. - Present.: 
-  * UCMerced VLLab -- Summer Intern
+  * UCMerced [VLLab](http://vllab.ucmerced.edu/) -- Summer Intern
   * The University of California, Merced
+  * Content:
+    * 3D/4D generation
+    * Reconstruction
   * Supervisor: Ming-Hsuan Yang
 
 
