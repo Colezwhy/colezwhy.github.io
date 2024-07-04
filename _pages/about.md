@@ -13,9 +13,11 @@ of Electronic Information & Communication, HUST. I have a great interest in many
 Now I am a visiting student at VlLab@UCMerced, supervised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), also working closely with [Lu Qi](http://luqi.info/) and [Xueting Li](https://research.nvidia.com/person/xueting-li).
 Previously, I am very fortunate to be supervised by Prof. [Xinggang Wang](https://xwcv.github.io/)@HUSTVL, Prof. [Meng Tang](mengtang.org)@mengtang lab, UCMerced.
 
-External collaborations are welcomed, please contact me via email. 
+External collaborations are welcomed, please contact me via email.
 
 Also if you are interested in a chat, please send me an email directly. Always welcome!
+
+Contact: colezwhyzzz \[at\] gmail \[dot\] com
 
 - Expected to be seeking for Ph.D. positions in 2025 Fall!
 
