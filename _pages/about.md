@@ -17,7 +17,7 @@ External collaborations are welcomed, please contact me via email.
 
 Also if you are interested in a chat, please send me an email directly. Always welcome!
 
-Contact: colezwhyzzz \[at\] gmail \[dot\] com
+Contact: colezwhyzz \[at\] gmail \[dot\] com
 
 - Expected to be seeking for Ph.D. positions in 2025 Fall!
 
