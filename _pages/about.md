@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Brief introduction"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I’m currently a junior student studying in Information Science Advanced Class, school
+I’m currently an undergraduate student studying in Information Science Advanced Class, school
 of Electronic Information & Communication, HUST. I have a great interest in many aspects in Artificial Intelligence, especially computer vision related tasks.
 
 Now I am a visiting student at VlLab@UCMerced, supervised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), also working closely with [Lu Qi](http://luqi.info/) and [Xueting Li](https://research.nvidia.com/person/xueting-li).
@@ -36,7 +36,7 @@ Always open for interesting topics!
 
 **News**
 ======
-- **2024/5/30**: Starting my internship at UCMerced and working on 3D/4D tasks. Good luck!
+- **2024/6/1**: Starting my internship at UCMerced and working on generative tasks. Good luck!
 
 - **2024/3/30**: I will join [VLLab@UCMerced](http://vllab.ucmerced.edu/) as a summer intern undergraduate student, supervised by Prof. [Ming-Husan Yang](https://faculty.ucmerced.edu/mhyang/). Looking forward to achieve something impressive!
   
@@ -57,28 +57,14 @@ Always open for interesting topics!
 ======
 <img align="right" src="../images/Merced.webp" width = "100" height = "100" alt="UCMerced"/>
 
-* 2024 May. - Present.: 
-  * UCMerced [VLLab](http://vllab.ucmerced.edu/) -- Summer Intern
+* 2024 Jun. - Present.: 
+  * UCMerced [VLLab](http://vllab.ucmerced.edu/) -- Visiting Student
   * The University of California, Merced
   * Content:
     * 3D/4D generation
     * Reconstruction
   * Supervisor: Ming-Hsuan Yang
 
-
-<!-- * Content: 
-  * General Visual Intelligence
-  * Feature Enginnering
-  * text-to-video generation
-  
-<img align="right" src="../images/google1.png" width = "100" height = "100" alt="google"/>
-
-* 2024 May. - Present.:
-  * Google research -- Research Assistant
-  * Content:
-    * Please also refer to above
-    * Google Cloud TRC support
-  * (joint with summer intern) -->
 
 <img align="right" src="../images/HUST.png" width = "100" height = "67" alt="HUST"/>
 
