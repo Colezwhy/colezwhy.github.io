@@ -36,6 +36,8 @@ Always open for interesting topics!
 
 **News**
 ======
+- **2024/7/21**: Our work [WeakSAM](https://arxiv.org/abs/2402.14812) is accepted to ACM Multimedia 2024!
+
 - **2024/6/1**: Starting my internship at UCMerced and working on generative tasks. Good luck!
 
 - **2024/3/30**: I will join [VLLab@UCMerced](http://vllab.ucmerced.edu/) as a summer intern undergraduate student, supervised by Prof. [Ming-Husan Yang](https://faculty.ucmerced.edu/mhyang/). Looking forward to achieve something impressive!

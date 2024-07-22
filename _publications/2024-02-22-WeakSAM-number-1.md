@@ -1,5 +1,5 @@
 ---
-title: "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition"
+title: "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition (ACM MM 2024)"
 authors: Lianghui Zhu*, Junwei Zhou*, Yan Liu, Hao Xin, Wenyu Liu, Xinggang Wang
 collection: publications
 permalink: /publication/2024-02-22-WeakSAM-number-1
