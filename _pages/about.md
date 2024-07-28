@@ -10,7 +10,7 @@ redirect_from:
 I’m currently an undergraduate student studying in Information Science Advanced Class, school
 of Electronic Information & Communication, HUST. I have a great interest in many aspects in Artificial Intelligence, especially computer vision related tasks.
 
-Now I am a visiting student at VlLab@UCMerced, supervised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), also working closely with [Lu Qi](http://luqi.info/) and [Xueting Li](https://research.nvidia.com/person/xueting-li).
+Now I am a visiting student at VlLab@UCMerced, supervised by Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), also working closely with Dr. [Lu Qi](http://luqi.info/) and Dr. [Xueting Li](https://research.nvidia.com/person/xueting-li).
 Previously, I am very fortunate to be supervised by Prof. [Xinggang Wang](https://xwcv.github.io/)@HUSTVL, Prof. [Meng Tang](mengtang.org)@mengtang lab, UCMerced.
 
 External collaborations are welcomed, please contact me via email.
