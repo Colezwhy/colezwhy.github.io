@@ -5,5 +5,5 @@ collection: publications
 permalink: /publication/2024-10-02-Layout-Your-3D-number-2
 # venue: 'ACM Multimedia 2024'
 excerpt: 'Given a text prompt describing multiple objects and their spatial relationships, our method generates a 3D scene depicting these objects naturally interacting with one another.'
-# paperurl: 'https://arxiv.org/abs/2402.14812'
+paperurl: 'https://arxiv.org/abs/2410.15391'
 ---
